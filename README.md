@@ -1,11 +1,11 @@
 # COMP 2090SEF group project
 group member:  
 
-Peng Ziyu 14048424 (JobApplication, JobPlatform, main)
+Peng Ziyu 14048424 (leader)
 
-XU Zhiheng 13961266(Skill, Resume, ResumeBook)
+XU Zhiheng 13961266
 
-WONG Hiu Ching 14267324(User, Jobseeker, Recruiter, Job)
+WONG Hiu Ching 14267324
 
 content:
 
