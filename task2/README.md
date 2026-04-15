@@ -38,20 +38,16 @@ Environment Setup
 
 1. Install Python 3.8+.
 
-2. Install required dependencies:
-   pip install jieba numpy
+2. Install required dependencies
+   -pip install jieba numpy
 
 How to Run
 
 1. Run TF-IDF Matching Calculation
-Execute the main matching script, input resume and job data (from Task 1 class instances), and get the matching score:
-
-python task2_algorithm/tfidf_matching.py
+Execute the main matching script, input resume and job data (from Task 1 class instances), and get the matching score
 
 2. Run TextRank Keyword Extraction
-Extract keywords from a specified job description text:
-
-python task2_algorithm/textrank_keyword.py
+Extract keywords from a specified job description text
    
 
    
