@@ -36,27 +36,21 @@ Requirements: Python 3.8+
 
 ### TF-IDF Algorithm：
 TF-IDF (Term Frequency-Inverse Document Frequency) calculates match scores between job seekers and job postings.
+
 #### Term	Formula
-TF = count(skill) / total_skills
-
-IDF =	log(total_jobs / jobs_with_skill) + 1
-
-Score =	Σ(TF × IDF)
-
+- TF = count(skill) / total_skills
+- IDF =	log(total_jobs / jobs_with_skill) + 1
+- Score =	Σ(TF × IDF)
+  
 Rare skills get higher weight than common skills.
 
 ### Future Improvements
--Password encryption (bcrypt)
-
--PDF/Word resume upload
-
--Email notification system
-
--Job recommendation based on match score
-
--Pagination for job lists
-
--Admin dashboard
+- Password encryption (bcrypt)
+- PDF/Word resume upload
+- Email notification system
+- Job recommendation based on match score
+- Pagination for job lists
+- Admin dashboard
 
 ### GitHub Repository：
 https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project
