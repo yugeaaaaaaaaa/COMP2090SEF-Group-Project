@@ -15,6 +15,7 @@ Requirements: Python 3.8+
    
 2.Run the application
   python main.py
+  
 3. Open browser and visit
   http://127.0.0.1:5000
 
