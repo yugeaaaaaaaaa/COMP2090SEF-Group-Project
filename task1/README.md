@@ -14,10 +14,8 @@ Requirements
 Steps:
 
 1. Clone or download the project
-   
- 2.Run the application
+2.Run the application
   python main.py
-  
 3. Open browser and visit
   http://127.0.0.1:5000
 
