@@ -40,3 +40,14 @@ Score range: 0% (no match) to 100% (perfect match)
 -TF-IDF matching algorithm
 
 -Email notification system
+
+### GitHub Repository
+https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project/edit/main/task1
+
+### Group member:
+
+Peng Ziyu 14048424 (leader)(job.platform.py, job application.py, main.py)
+
+XU Zhiheng 13961266(matching.py)
+
+WONG Hiu Ching 14267324(task1.py)
