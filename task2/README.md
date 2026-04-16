@@ -49,9 +49,11 @@ Execute the main matching script, input resume and job data (from Task 1 class i
 Extract keywords from a specified job description text
 
 GitHub link:
+
 https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project/edit/main/task2
 
 Group member:
+
 Peng Ziyu 14048424 (leader)(job.platform.py, job application.py, main.py)
 
 XU Zhiheng 13961266(matching.py, TFIDF.py)
