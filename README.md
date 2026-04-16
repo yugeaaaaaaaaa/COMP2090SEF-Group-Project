@@ -40,20 +40,6 @@ TF-IDF (Term Frequency-Inverse Document Frequency) calculates match scores betwe
 
 -Admin dashboard
 
-
-### progress:        
-
-2026.3.7
-
-1.Class structure design
-
-2.basic functions(register,login,post job,search job,apply job)
-
-3.Intergration with User/job classes
-
-4.Intergration with matching algorithm
-
-
 ### GitHub Repository：
 https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project
 
