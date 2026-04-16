@@ -4,7 +4,7 @@
 A web-based recruitment system that connects job seekers and recruiters. Job seekers can search and apply for jobs with resume, while recruiters can post jobs and manage applicancations.
 
 ### Teatures:
-For job seekers, after register and login, they can search jobs by keyword or company name, apply for jobs with resume, add personnal skills and view application status. For recruiters, after register and login, they can post jobs with required skills, view posted jobs, review applicants'resumes and update application status.
+For job seekers, after register and login, they can search jobs by keyword or company name, apply for jobs with resume, add personnal skills and view application status. For recruiters, after register and login, they can post jobs with required skills, view posted jobs, review applicants' resumes and update application status.
 
 ### Tech:
 Python + Flask + SQLite
@@ -13,13 +13,12 @@ Python + Flask + SQLite
 
 Requirements: Python 3.8+
   
-### Steps:
+#### Steps:
 -1. Clone or download the project 
 
 -2.Run the application: python main.py
 
--3. Open browser and visit
-  http://127.0.0.1:5000
+-3. Open browser and visit http://127.0.0.1:5000
 
 ### How to Use:
 Job seeker register an account as seeker, after login they can search jobs and click "Apply", fill in resume and submit. And then they can check their application and result in "My Applications".
