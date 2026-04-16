@@ -54,11 +54,11 @@ https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project/edit/main/task2
 
 Group member:
 
-Peng Ziyu 14048424 (leader)(job.platform.py, job application.py, main.py)
+• Peng Ziyu 14048424 (leader)(job.platform.py, job application.py, main.py)
 
-XU Zhiheng 13961266(matching.py, TFIDF.py)
+• XU Zhiheng 13961266(matching.py, TFIDF.py)
 
-WONG Hiu Ching 14267324(database.py, user_job_model.py)
+• WONG Hiu Ching 14267324(database.py, user_job_model.py)
    
 
    
