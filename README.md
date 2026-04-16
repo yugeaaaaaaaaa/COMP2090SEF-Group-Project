@@ -56,4 +56,4 @@ Rare skills get higher weight than common skills.
 https://github.com/yugeaaaaaaaaa/COMP2090SEF-Group-Project
 
 ### Introduction video:
-https://pan.xunlei.com/s/VOqM65bM5Kd4wk_GrRsg_gZyA1?pwd=aemt#
+ https://b23.tv/08uAbKy
