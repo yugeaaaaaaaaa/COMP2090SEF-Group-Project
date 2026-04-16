@@ -7,6 +7,7 @@ Teatures:
 For job seekers, after register and login, they can search jobs by keyword or company name, apply for jobs with resume, add personnal skills and view application status. For recruiters, after register and login, they can post jobs with required skills, view posted jobs, review applicants'resumes and update application status.
 
 How to Run:
+
 Requirements
 - Python 3.8+
   
