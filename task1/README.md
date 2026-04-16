@@ -1,6 +1,6 @@
-### recruitment system
+### Recruitment system
 
-### project introduction
+### Project introduction
 A web-based recruitment system that connects job seekers and recruiters. Job seekers can search and apply for jobs with resume, while recruiters can post jobs and manage applicancations.
 
 ### Teatures:
@@ -11,10 +11,10 @@ For job seekers, after register and login, they can search jobs by keyword or co
 Requirements: Python 3.8+
   
 ### Steps:
-1. Clone or download the project
+-1. Clone or download the project
    
- 2.Run the application: python main.py
+-2.Run the application: python main.py
   
-3. Open browser and visit
+-3. Open browser and visit
   http://127.0.0.1:5000
 
