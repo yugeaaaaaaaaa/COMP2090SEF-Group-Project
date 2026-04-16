@@ -9,8 +9,11 @@ For job seekers, after register and login, they can search jobs by keyword or co
 How to Run:
 Requirements
 - Python 3.8+
+- 
 Steps:
+
 1. Clone or download the project
+   
 2.Run the application
   python main.py
 3. Open browser and visit
