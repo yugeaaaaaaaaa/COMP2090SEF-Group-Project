@@ -11,7 +11,7 @@ WONG Hiu Ching 14267324
 ### Contents of this project:
 task1: OOP-based application development(recruitment-system)
 
-task2: OOP-based application development with TF-IDF algorithm (recruitment-system)
+tsak2: Study report on TF-IDF algorithm for job matching
 
 ### Project Overview
 This project is a web-based recruitment system developed for COMP 2090SEF. It connects job seekers and recruiters, allowing:
@@ -24,7 +24,7 @@ The system uses **TF-IDF (Term Frequency-Inverse Document Frequency)** to calcul
 ### Teatures:
 For job seekers, after register and login, they can search jobs by keyword or company name, apply for jobs with resume, add personnal skills (function in task2) and view application status. For recruiters, after register and login, they can post jobs with required skills, view posted jobs, review applicants' resumes and update application status.
 
-### IF-IDF Algorithm：
+### TF-IDF Algorithm：
 TF-IDF (Term Frequency-Inverse Document Frequency) calculates match scores between job seekers and job postings.
 
 ### Future Improvements
