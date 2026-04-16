@@ -38,8 +38,6 @@ Environment Setup
 
 1. Install Python 3.8+.
 
-2. Install required dependencies
-   -pip install jieba numpy
 
 How to Run
 
