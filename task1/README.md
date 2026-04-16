@@ -6,6 +6,9 @@ A web-based recruitment system that connects job seekers and recruiters. Job see
 ### Teatures:
 For job seekers, after register and login, they can search jobs by keyword or company name, apply for jobs with resume, add personnal skills and view application status. For recruiters, after register and login, they can post jobs with required skills, view posted jobs, review applicants'resumes and update application status.
 
+### Tech:
+Python + Flask + SQLite
+
 ### How to Run:
 
 Requirements: Python 3.8+
@@ -18,3 +21,22 @@ Requirements: Python 3.8+
 -3. Open browser and visit
   http://127.0.0.1:5000
 
+### How to Use:
+Job seeker register an account as seeker, after login they can search jobs and click "Apply", fill in resume and submit. And then they can check their application and result in "My Applications".
+Recruiter register an account as recruiter, after login they can click "Post job" to create a job posting, after seeker apply, they can go to "My Posted Jobs" to view applicants with their resumes and apdate application status. 
+
+### Match Score Algorithm:
+The system uses Jaccard similarity to calculate match score:
+
+Formula: matched_skills / required_skills
+
+Score range: 0% (no match) to 100% (perfect match)
+
+### Future Improvements
+-Password encryption (bcrypt)
+
+-PDF/Word resume upload
+
+-TF-IDF matching algorithm
+
+-Email notification system
